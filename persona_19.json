@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "experiment_setup_id": "image_text_ai_generated_intervention",
+  "count": 1,
+  "personas": [
+    {
+      "persona_id": "persona_02b393d6530e",
+      "age": 22,
+      "gender": "man",
+      "sex": "Female",
+      "race": "Asian",
+      "ethnicity": "Mexican American",
+      "country": "AU",
+      "state": "CO",
+      "education": "bachelors_degree",
+      "student_status": "graduate_student",
+      "ai_literacy_level": "High: Strong understanding of generative AI systems, training data, and common generation artifacts. Frequently recognises stylistic, structural, or visual indicators associated with AI-generated content.",
+      "prior_ai_use": "Frequent: Regularly uses AI systems across multiple contexts and is highly familiar with their outputs, strengths, and limitations.",
+      "online_content_skepticism": "Moderate: Sometimes questions the reliability or authenticity of online content, especially when inconsistencies or unusual details are noticeable.",
+      "attention_to_detail": "High: Carefully analyses wording, structure, visual elements, and contextual consistency before making a judgement.",
+      "prior_exposure_to_misinformation": "High: Extensive prior exposure to misinformation, manipulated media, online scams, or educational discussions about deceptive digital content."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "experiment_setup_id": "image_text_ai_generated_intervention",
+  "count": 1,
+  "personas": [
+    {
+      "persona_id": "persona_ce78992edb35",
+      "age": 24,
+      "gender": "nonbinary",
+      "sex": "Prefer not to say",
+      "race": "White",
+      "ethnicity": "Puerto Rican",
+      "country": "CA",
+      "state": "CO",
+      "education": "undergraduate",
+      "student_status": "not_student",
+      "ai_literacy_level": "Low: Minimal understanding of generative AI systems. Rarely recognises common AI-generated patterns and has limited awareness of how AI content is produced.",
+      "prior_ai_use": "Rare: Very limited use of AI systems, usually for experimentation or occasional curiosity.",
+      "online_content_skepticism": "High: Frequently evaluates online content critically and actively looks for signs of manipulation, misinformation, or synthetic generation.",
+      "attention_to_detail": "High: Carefully analyses wording, structure, visual elements, and contextual consistency before making a judgement.",
+      "prior_exposure_to_misinformation": "Low: Limited prior exposure to misinformation or manipulated media discussions."
+    }
+  ]
+}

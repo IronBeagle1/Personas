@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "experiment_setup_id": "image_text_ai_generated_intervention",
+  "count": 1,
+  "personas": [
+    {
+      "persona_id": "persona_24b680246b30",
+      "age": 19,
+      "gender": "prefer_not_to_say",
+      "sex": "Male",
+      "race": "Other",
+      "ethnicity": "Other",
+      "country": "CA",
+      "state": "TX",
+      "education": "graduate_student",
+      "student_status": "graduate_student",
+      "ai_literacy_level": "Medium: Basic understanding of generative AI tools and some familiarity with common indicators of AI-generated content. Can occasionally identify synthetic patterns but may miss subtle cues.",
+      "prior_ai_use": "Frequent: Regularly uses AI systems across multiple contexts and is highly familiar with their outputs, strengths, and limitations.",
+      "online_content_skepticism": "Low: Generally accepts online content at face value and rarely questions authenticity unless obvious issues are present.",
+      "attention_to_detail": "High: Carefully analyses wording, structure, visual elements, and contextual consistency before making a judgement.",
+      "prior_exposure_to_misinformation": "Low: Limited prior exposure to misinformation or manipulated media discussions."
+    }
+  ]
+}
